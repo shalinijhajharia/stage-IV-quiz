@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stage-IV-quiz/static/css/main.fc9e8b25.css",
+    "main.js": "/stage-IV-quiz/static/js/main.2ff9e77e.js",
+    "index.html": "/stage-IV-quiz/index.html",
+    "main.fc9e8b25.css.map": "/stage-IV-quiz/static/css/main.fc9e8b25.css.map",
+    "main.2ff9e77e.js.map": "/stage-IV-quiz/static/js/main.2ff9e77e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9e8b25.css",
+    "static/js/main.2ff9e77e.js"
+  ]
+}
